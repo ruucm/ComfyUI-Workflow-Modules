@@ -6,7 +6,7 @@
     "type": "checkpoints",
     "filename": "majicmixRealistic_v7.safetensors",
     "reference": "",
-    "save_path": "checkpoints/SD1.5",
+    "save_path": "checkpoints",
     "description": ""
   },
   {
@@ -16,7 +16,7 @@
     "name": "Realistic Vision V6.0 B1",
     "filename": "realisticVisionV60B1_v51VAE.safetensors",
     "reference": "",
-    "save_path": "checkpoints/SD1.5",
+    "save_path": "checkpoints",
     "description": ""
   },
   {
