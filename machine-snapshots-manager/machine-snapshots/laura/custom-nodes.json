@@ -1,0 +1,8 @@
+{
+  "git_custom_nodes": {
+    "https://github.com/talesofai/comfyui-browser": {
+      "hash": "fc003f49454d10bc5998736c57d1d271ee7cea54",
+      "disabled": false
+    }
+  }
+}

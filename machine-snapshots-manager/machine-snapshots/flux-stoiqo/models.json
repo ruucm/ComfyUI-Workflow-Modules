@@ -1,0 +1,72 @@
+[
+  {
+    "url": "http://springroll.ipdisk.co.kr:8081/list/HDD1/generative-ai/models/ae.sft",
+    "base": "",
+    "name": "ae",
+    "type": "VAE",
+    "filename": "ae.safetensors",
+    "reference": "",
+    "save_path": "vae",
+    "description": ""
+  },
+  {
+    "url": "http://springroll.ipdisk.co.kr:8081/list/HDD1/generative-ai/models/STOIQONewrealityFLUXSD_F1DAlpha.safetensors",
+    "base": "",
+    "name": "STOIQONewrealityFLUXSD_F1DAlpha",
+    "type": "unet",
+    "filename": "STOIQONewrealityFLUXSD_F1DAlpha.safetensors",
+    "reference": "",
+    "save_path": "unet",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors",
+    "base": "",
+    "name": "t5xxl_fp16",
+    "type": "clip",
+    "filename": "t5xxl_fp16.safetensors",
+    "reference": "",
+    "save_path": "clip",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors",
+    "base": "",
+    "name": "clip_l",
+    "type": "clip",
+    "filename": "clip_l.safetensors",
+    "reference": "",
+    "save_path": "clip",
+    "description": ""
+  },
+  {
+    "url": "http://springroll.ipdisk.co.kr:8081/list/HDD1/generative-ai/loras/flux_realism_lora.safetensors",
+    "base": "",
+    "name": "flux_realism_lora",
+    "type": "",
+    "filename": "flux_realism_lora.safetensors",
+    "reference": "",
+    "save_path": "loras/flux",
+    "description": ""
+  },
+  {
+    "url": "http://springroll.ipdisk.co.kr:8081/list/HDD1/generative-ai/loras/ruucm.safetensors",
+    "base": "",
+    "name": "ruucm",
+    "type": "",
+    "filename": "ruucm.safetensors",
+    "reference": "",
+    "save_path": "loras/flux",
+    "description": ""
+  },
+  {
+    "url": "http://springroll.ipdisk.co.kr:8081/list/HDD1/generative-ai/loras/victorballcapt1_04.safetensors",
+    "base": "",
+    "name": "victorballcapt1_04",
+    "type": "",
+    "filename": "victorballcapt1_04.safetensors",
+    "reference": "",
+    "save_path": "loras/flux",
+    "description": ""
+  }
+]

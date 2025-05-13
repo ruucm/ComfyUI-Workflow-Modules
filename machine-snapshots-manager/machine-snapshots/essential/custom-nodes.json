@@ -1,0 +1,30 @@
+{
+  "comfyui": "4c0f5f71e8a3145038c1c4c6690499813aa27e27",
+  "git_custom_nodes": {
+    "https://github.com/ruucm/ruucm-comfy": {
+      "hash": "9007e735a6cdd3fe710eec6e3a81dd92d6c20c12",
+      "disabled": false
+    },
+    "https://github.com/ruucm/bilbox-comfyui": {
+      "hash": "a2046343a2ddc6ff1de5a81a2891d74f4d9d9477",
+      "disabled": false
+    },
+    "https://github.com/ruucm/comfyui-deploy.git": {
+      "hash": "5d078d45b5c8e76e46caf9dce593ca0622e740bd",
+      "disabled": false
+    },
+    "https://github.com/chrisgoringe/cg-use-everywhere": {
+      "hash": "7a6a232a41a456f7f7348ecc88fa50c538c7a5ec",
+      "disabled": false
+    },
+    "https://github.com/11cafe/comfyui-workspace-manager": {
+      "hash": "8e7058e1518d1e778d11bab065a5f063210598b4",
+      "disabled": false
+    },
+    "https://github.com/ssitu/comfyui_ultimatesdupscale": {
+      "hash": "e617ff20e7ef5baf6526c5ff4eb46a35d24ecbba",
+      "disabled": false
+    }
+  },
+  "file_custom_nodes": []
+}

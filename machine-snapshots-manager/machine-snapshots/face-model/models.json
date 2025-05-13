@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/model.safetensors",
+    "base": "SD1.5",
+    "name": "CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors",
+    "type": "clip_vision",
+    "filename": "CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "clip_vision",
+    "description": ""
+  }
+]

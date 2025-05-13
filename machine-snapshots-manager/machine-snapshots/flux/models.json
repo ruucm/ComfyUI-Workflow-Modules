@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://cdn.monthlystartup.co/models/ae.safetensors",
+    "base": "",
+    "name": "ae",
+    "type": "VAE",
+    "filename": "ae.safetensors",
+    "reference": "",
+    "save_path": "vae",
+    "description": ""
+  },
+  {
+    "url": "https://civitai.com/api/download/models/691639?token=68d9b307e9fa79189833bf962904b99c",
+    "base": "",
+    "name": "flux1-dev",
+    "type": "unet",
+    "filename": "flux1-dev.safetensors",
+    "reference": "",
+    "save_path": "unet",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors",
+    "base": "",
+    "name": "t5xxl_fp16",
+    "type": "clip",
+    "filename": "t5xxl_fp16.safetensors",
+    "reference": "",
+    "save_path": "clip",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors",
+    "base": "",
+    "name": "clip_l",
+    "type": "clip",
+    "filename": "clip_l.safetensors",
+    "reference": "",
+    "save_path": "clip",
+    "description": ""
+  },
+  {
+    "url": "https://cdn.monthlystartup.co/models/flux_realism_lora.safetensors",
+    "base": "",
+    "name": "flux_realism_lora",
+    "type": "",
+    "filename": "flux_realism_lora.safetensors",
+    "reference": "",
+    "save_path": "loras/flux",
+    "description": ""
+  },
+  {
+    "url": "https://cdn.monthlystartup.co/models/lora/victorballcapt1_03.safetensors",
+    "base": "",
+    "name": "victorballcapt1_04",
+    "type": "",
+    "filename": "victorballcapt1_03.safetensors",
+    "reference": "",
+    "save_path": "loras/flux",
+    "description": ""
+  }
+]

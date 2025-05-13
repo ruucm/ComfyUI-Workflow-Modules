@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://huggingface.co/guozinan/PuLID/resolve/main/pulid_flux_v0.9.1.safetensors",
+    "base": "",
+    "name": "PuLID Flux",
+    "type": "pulid",
+    "filename": "pulid_flux_v0.9.1.safetensors",
+    "reference": "",
+    "save_path": "pulid",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/1k3d68.onnx",
+    "base": "",
+    "name": "1k3d68",
+    "type": "",
+    "filename": "1k3d68.onnx",
+    "reference": "",
+    "save_path": "insightface/models/antelopev2",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/2d106det.onnx",
+    "base": "",
+    "name": "2d106det",
+    "type": "",
+    "filename": "2d106det.onnx",
+    "reference": "",
+    "save_path": "insightface/models/antelopev2",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/genderage.onnx",
+    "base": "",
+    "name": "genderage",
+    "type": "",
+    "filename": "genderage.onnx",
+    "reference": "",
+    "save_path": "insightface/models/antelopev2",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/glintr100.onnx",
+    "base": "",
+    "name": "glintr100",
+    "type": "",
+    "filename": "glintr100.onnx",
+    "reference": "",
+    "save_path": "insightface/models/antelopev2",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/scrfd_10g_bnkps.onnx",
+    "base": "",
+    "name": "scrfd_10g_bnkps",
+    "type": "",
+    "filename": "scrfd_10g_bnkps.onnx",
+    "reference": "",
+    "save_path": "insightface/models/antelopev2",
+    "description": ""
+  }
+]

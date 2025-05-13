@@ -1,0 +1,10 @@
+{
+  "comfyui": "4c0f5f71e8a3145038c1c4c6690499813aa27e27",
+  "git_custom_nodes": {
+    "https://github.com/sipie800/ComfyUI-PuLID-Flux-Enhanced": {
+      "hash": "04e1b52320f1f14383afe18959349703623c5b88",
+      "disabled": false
+    }
+  },
+  "file_custom_nodes": []
+}

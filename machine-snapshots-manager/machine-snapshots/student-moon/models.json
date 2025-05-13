@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://civitai.com/api/download/models/712448",
+    "base": "",
+    "name": "realDream_15SD15",
+    "type": "checkpoints",
+    "filename": "realDream_15SD15.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "http://springroll.ipdisk.co.kr:8081/list/HDD1/generative-ai/models/stokedReality_v31.safetensors",
+    "base": "",
+    "name": "stokedReality_v31",
+    "type": "checkpoints",
+    "filename": "stokedReality_v31.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "http://springroll.ipdisk.co.kr:8081/list/HDD1/generative-ai/models/perfecthumansexy_v40.safetensors",
+    "base": "",
+    "name": "perfecthumansexy_v40",
+    "type": "checkpoints",
+    "filename": "perfecthumansexy_v40.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "http://springroll.ipdisk.co.kr:8081/list/HDD1/generative-ai/models/coffeemixLightV1_v10.safetensors",
+    "base": "",
+    "name": "coffeemixLightV1_v10",
+    "type": "checkpoints",
+    "filename": "coffeemixLightV1_v10.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "http://springroll.ipdisk.co.kr:8081/list/HDD1/generative-ai/models/almostAnythingV20_v20.safetensors",
+    "base": "",
+    "name": "almostAnythingV20_v20",
+    "type": "checkpoints",
+    "filename": "almostAnythingV20_v20.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "http://springroll.ipdisk.co.kr:8081/list/HDD1/generative-ai/models/popAsianPhoto2024_v10.safetensors",
+    "base": "",
+    "name": "popAsianPhoto2024_v10",
+    "type": "checkpoints",
+    "filename": "popAsianPhoto2024_v10.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "http://springroll.ipdisk.co.kr:8081/list/HDD1/generative-ai/models/moodyRealMix_v50.safetensors",
+    "base": "",
+    "name": "moodyRealMix_v50",
+    "type": "checkpoints",
+    "filename": "moodyRealMix_v50.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  }
+]

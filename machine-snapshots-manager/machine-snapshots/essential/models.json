@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://civitai.com/api/download/models/113623?type=Model&format=SafeTensor&size=full&fp=fp16",
+    "base": "SD 1.5",
+    "name": "LEOSAM's HelloWorld XL",
+    "type": "checkpoints",
+    "filename": "leosamsHelloworldXL_filmGrain20.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/8x_NMKD-Superscale_150000_G.pth",
+    "base": "upscale",
+    "name": "8x_NMKD-Superscale_150000_G",
+    "type": "upscale",
+    "filename": "8x_NMKD-Superscale_150000_G.pth",
+    "reference": "",
+    "save_path": "default",
+    "description": ""
+  }
+]

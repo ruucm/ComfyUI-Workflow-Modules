@@ -1,0 +1,452 @@
+[
+  {
+    "url": "https://civitai.com/api/download/models/176425",
+    "base": "SD 1.5",
+    "name": "majicMIX realistic",
+    "type": "checkpoints",
+    "filename": "majicmixRealistic_v7.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "https://civitai.com/api/download/models/113623",
+    "base": "SD 1.5",
+    "name": "LEOSAM's HelloWorld XL",
+    "type": "checkpoints",
+    "filename": "leosamsHelloworldXL_filmGrain20.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+    "base": "SD 1.5",
+    "type": "checkpoints",
+    "name": "Realistic Vision V6.0 B1",
+    "filename": "realisticVisionV60B1_v51VAE.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "https://civitai.com/api/download/models/152070",
+    "base": "SD 1.5",
+    "name": "awportrait_v12",
+    "type": "checkpoints",
+    "filename": "awportrait_v12.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "https://civitai.com/api/download/models/304593",
+    "base": "SD 1.5",
+    "name": "awportrait_v13",
+    "type": "checkpoints",
+    "filename": "awportrait_v13.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "https://civitai.com/api/download/models/143906",
+    "base": "SD 1.5",
+    "name": "epicrealism_naturalSinRC1VAE",
+    "type": "checkpoints",
+    "filename": "epicrealism_naturalSinRC1VAE.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/BitStarWalkin/RPG_models/resolve/main/disneyPixarCartoon_v10.safetensors",
+    "base": "SD 1.5",
+    "type": "checkpoints",
+    "name": "Disney Pixar Cartoon Type A",
+    "filename": "disneyPixarCartoon_v10.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "https://civitai.com/api/download/models/351306",
+    "base": "SDXL",
+    "type": "checkpoints",
+    "name": "DreamShaper XL",
+    "filename": "dreamshaperXL_v21TurboDPMSDE.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SDXL",
+    "description": ""
+  },
+  {
+    "url": "https://civitai.com/api/download/models/570138",
+    "base": "SDXL",
+    "type": "checkpoints",
+    "name": "leosamsHelloworldXL_helloworldXL70",
+    "filename": "leosamsHelloworldXL_helloworldXL70.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SDXL",
+    "description": ""
+  },
+  {
+    "url": "https://civitai.com/api/download/models/113623",
+    "base": "SDXL",
+    "type": "checkpoints",
+    "name": "leosamsHelloworldXL_filmGrain20",
+    "filename": "leosamsHelloworldXL_filmGrain20.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SDXL",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/lllyasviel/ControlNet/resolve/main/models/control_sd15_depth.pth",
+    "base": "SD1.5",
+    "name": "control_sd15_depth",
+    "type": "controlnet",
+    "filename": "control_sd15_depth.pth",
+    "reference": "",
+    "save_path": "controlnet/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart.pth",
+    "base": "SD1.5",
+    "name": "control_v11p_sd15_lineart",
+    "type": "controlnet",
+    "filename": "control_v11p_sd15_lineart.pth",
+    "reference": "",
+    "save_path": "controlnet/SD1.5",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_openpose_fp16.safetensors",
+    "base": "SD1.5",
+    "name": "ControlNet-v1-1 (openpose; fp16)",
+    "type": "controlnet",
+    "filename": "control_v11p_sd15_openpose_fp16.safetensors",
+    "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
+    "save_path": "controlnet/SD1.5",
+    "description": "Safetensors/FP16 versions of the new ControlNet-v1-1 checkpoints (openpose)"
+  },
+  {
+    "url": "https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/resolve/main/control-lora-openposeXL2-rank256.safetensors",
+    "base": "SDXL",
+    "name": "control-lora-openposeXL2-rank256.safetensors",
+    "type": "controlnet",
+    "filename": "control-lora-openposeXL2-rank256.safetensors",
+    "reference": "",
+    "save_path": "controlnet/SDXL",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/xinsir/controlnet-union-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors",
+    "base": "SDXL",
+    "name": "controlnet-union-sdxl-1.0",
+    "type": "controlnet",
+    "filename": "controlnet-union-sdxl-1.0.safetensors",
+    "reference": "",
+    "save_path": "controlnet/SDXL",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15.safetensors",
+    "base": "SD1.5",
+    "name": "ip-adapter_sd15.safetensors",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter_sd15.safetensors",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15_light_v11.bin",
+    "base": "SD1.5",
+    "name": "ip-adapter_sd15_light_v11.bin",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter_sd15_light_v11.bin",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus_sd15.safetensors",
+    "base": "SD1.5",
+    "name": "ip-adapter-plus_sd15.safetensors",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter-plus_sd15.safetensors",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus-face_sd15.safetensors",
+    "base": "SD1.5",
+    "name": "ip-adapter-plus-face_sd15.safetensors",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter-plus-face_sd15.safetensors",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-full-face_sd15.safetensors",
+    "base": "SD1.5",
+    "name": "ip-adapter-full-face_sd15.safetensors",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter-full-face_sd15.safetensors",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15_vit-G.safetensors",
+    "base": "SD1.5",
+    "name": "ip-adapter_sd15_vit-G.safetensors",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter_sd15_vit-G.safetensors",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sd15.bin",
+    "base": "SD1.5",
+    "name": "ip-adapter-faceid_sd15.bin",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter-faceid_sd15.bin",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sd15.bin",
+    "base": "SD1.5",
+    "name": "ip-adapter-faceid-plusv2_sd15.bin",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter-faceid-plusv2_sd15.bin",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sdxl.bin",
+    "base": "SDXL",
+    "name": "ip-adapter-faceid-plusv2_sdxl",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter-faceid-plusv2_sdxl.bin",
+    "reference": "",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait-v11_sd15.bin",
+    "base": "SD1.5",
+    "name": "ip-adapter-faceid-portrait-v11_sd15.bin",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter-faceid-portrait-v11_sd15.bin",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sdxl.bin",
+    "base": "SDXL",
+    "name": "ip-adapter-faceid_sdxl.bin",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter-faceid_sdxl.bin",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sdxl.bin",
+    "base": "SDXL",
+    "name": "ip-adapter-faceid-plusv2_sdxl.bin",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter-faceid-plusv2_sdxl.bin",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait_sdxl_unnorm.bin",
+    "base": "SDXL",
+    "name": "ip-adapter-faceid-portrait_sdxl_unnorm.bin",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter-faceid-portrait_sdxl_unnorm.bin",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait_sdxl.bin",
+    "base": "SDXL",
+    "name": "ip-adapter-faceid-portrait_sdxl.bin",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter-faceid-portrait_sdxl.bin",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter_sdxl_vit-h.safetensors",
+    "base": "SDXL",
+    "name": "ip-adapter_sdxl_vit-h.safetensors",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter_sdxl_vit-h.safetensors",
+    "reference": "",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter-plus_sdxl_vit-h.safetensors",
+    "base": "SDXL",
+    "name": "ip-adapter-plus_sdxl_vit-h.safetensors",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter-plus_sdxl_vit-h.safetensors",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter-plus-face_sdxl_vit-h.safetensors",
+    "base": "SDXL",
+    "name": "ip-adapter-plus-face_sdxl_vit-h.safetensors",
+    "type": "IP-Adapter",
+    "filename": "ip-adapter-plus-face_sdxl_vit-h.safetensors",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "ipadapter",
+    "description": ""
+  },
+  {
+    "url": "https://civitai.com/api/download/models/444467",
+    "base": "SD1.5",
+    "name": "shrimp v1.2_hxia",
+    "type": "",
+    "filename": "shrimp v1.2_hxia.safetensors",
+    "reference": "",
+    "save_path": "loras",
+    "description": ""
+  },
+  {
+    "url": "https://civitai.com/api/download/models/107032",
+    "base": "SD1.5",
+    "name": "JPfilmColor_Heavy_grain.safetensors",
+    "type": "",
+    "filename": "JPfilmColor_Heavy_grain.safetensors",
+    "reference": "",
+    "save_path": "loras",
+    "description": ""
+  },
+  {
+    "url": "https://civitai.com/api/download/models/22327",
+    "base": "SD1.5",
+    "name": "jwy___v1",
+    "type": "",
+    "filename": "jwy___v1.safetensors",
+    "reference": "",
+    "save_path": "loras",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sd15_lora.safetensors",
+    "base": "SD1.5",
+    "name": "ip-adapter-faceid_sd15_lora.safetensors",
+    "type": "",
+    "filename": "ip-adapter-faceid_sd15_lora.safetensors",
+    "reference": "",
+    "save_path": "loras",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sd15_lora.safetensors",
+    "base": "SD1.5",
+    "name": "ip-adapter-faceid-plusv2_sd15_lora.safetensors",
+    "type": "",
+    "filename": "ip-adapter-faceid-plusv2_sd15_lora.safetensors",
+    "reference": "",
+    "save_path": "loras",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sdxl_lora.safetensors",
+    "base": "SDXL",
+    "name": "ip-adapter-faceid_sdxl_lora.safetensors",
+    "type": "",
+    "filename": "ip-adapter-faceid_sdxl_lora.safetensors",
+    "reference": "",
+    "save_path": "loras",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
+    "base": "SDXL",
+    "name": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
+    "type": "",
+    "filename": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
+    "reference": "",
+    "save_path": "loras",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/model.safetensors",
+    "base": "SD1.5",
+    "name": "CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors",
+    "type": "clip_vision",
+    "filename": "CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors",
+    "reference": "https://huggingface.co/h94/IP-Adapter",
+    "save_path": "clip_vision",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/image_encoder/model.safetensors",
+    "base": "SD1.5",
+    "name": "CLIP-ViT-bigG-14-laion2B-39B-b160k.safetensors",
+    "type": "clip_vision",
+    "filename": "CLIP-ViT-bigG-14-laion2B-39B-b160k.safetensors",
+    "reference": "",
+    "save_path": "clip_vision",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors",
+    "base": "SD1.5 VAE",
+    "name": "vae-ft-mse-840000-ema-pruned",
+    "type": "VAE",
+    "filename": "vae-ft-mse-840000-ema-pruned.safetensors",
+    "reference": "https://huggingface.co/stabilityai/sd-vae-ft-mse-original",
+    "save_path": "default",
+    "description": "vae-ft-mse-840000-ema-pruned"
+  },
+  {
+    "url": "https://huggingface.co/RafaG/models-ESRGAN/resolve/82caaaedb2d27e9f76472351828178b62995c2f1/4xFaceUpLDAT.pth",
+    "base": "upscale",
+    "name": "4xFaceUpLDAT",
+    "type": "upscale",
+    "filename": "4xFaceUpLDAT.pth",
+    "reference": "",
+    "save_path": "default",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth",
+    "base": "upscale",
+    "name": "4x-UltraSharp",
+    "type": "upscale",
+    "filename": "4x-UltraSharp.pth",
+    "reference": "",
+    "save_path": "default",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/lllyasviel/ic-light/resolve/main/iclight_sd15_fc.safetensors",
+    "base": "",
+    "name": "iclight_sd15_fc",
+    "type": "unet",
+    "filename": "iclight_sd15_fc.safetensors",
+    "reference": "",
+    "save_path": "unet",
+    "description": ""
+  }
+]

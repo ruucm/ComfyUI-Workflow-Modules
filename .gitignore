@@ -44,3 +44,7 @@ ComfyUI-Manager/*
 
 # exclude comfy.templates.json
 comfy.templates.json
+
+
+node_modules
+.next

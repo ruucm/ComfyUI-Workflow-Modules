@@ -1,0 +1,28 @@
+{
+  "git_custom_nodes": {
+    "https://github.com/cubiq/comfyui_faceanalysis": {
+      "hash": "3a4df6fe61442c533686037a3ea66234b845360e",
+      "disabled": false
+    },
+    "https://github.com/cubiq/comfyui_ipadapter_plus": {
+      "hash": "7d8adaec730bff243cc3026eed5111695cc5ed4e",
+      "disabled": false
+    },
+    "https://github.com/ltdrdata/comfyui-impact-pack": {
+      "hash": "83ad10cddedf25df83de286683971e3fee63f7e1",
+      "disabled": false
+    },
+    "https://github.com/jamesWalker55/comfyui-various": {
+      "hash": "ec58185387c75b74ee93d6f835ff480772dbc64d",
+      "disabled": false
+    },
+    "https://github.com/blenderneko/comfyui_adv_clip_emb": {
+      "hash": "63984deefb005da1ba90a1175e21d91040da38ab",
+      "disabled": false
+    },
+    "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes": {
+      "hash": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+      "disabled": false
+    }
+  }
+}

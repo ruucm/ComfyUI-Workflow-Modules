@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://civitai.com/api/download/models/1086292?token=68d9b307e9fa79189833bf962904b99c",
+    "base": "",
+    "name": "flux1-fill-dev",
+    "type": "unet",
+    "filename": "flux1-fill-dev.safetensors",
+    "reference": "",
+    "save_path": "unet",
+    "description": ""
+  },
+  {
+    "url": "https://civitai.com/api/download/models/1086214?token=68d9b307e9fa79189833bf962904b99c",
+    "base": "",
+    "name": "flux1-canny-dev-lora",
+    "type": "",
+    "filename": "flux1-canny-dev-lora.safetensors",
+    "reference": "",
+    "save_path": "loras/flux",
+    "description": ""
+  }
+]

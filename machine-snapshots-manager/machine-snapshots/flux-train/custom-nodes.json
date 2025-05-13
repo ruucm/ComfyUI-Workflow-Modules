@@ -1,0 +1,16 @@
+{
+  "git_custom_nodes": {
+    "https://github.com/rgthree/rgthree-comfy": {
+      "hash": "2613da28c639b90b310e35c6ffde9ee0a3d60bfe",
+      "disabled": false
+    },
+    "https://github.com/kijai/ComfyUI-KJNodes": {
+      "hash": "c98c94125ec14db3478307baf562704ff43a9beb",
+      "disabled": false
+    },
+    "https://github.com/kijai/ComfyUI-FluxTrainer": {
+      "hash": "f05d2c3c9691deac7d57aee0df97042764e49cf2",
+      "disabled": false
+    }
+  }
+}

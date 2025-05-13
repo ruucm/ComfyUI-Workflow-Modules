@@ -1,0 +1,20 @@
+{
+  "git_custom_nodes": {
+    "https://github.com/ltdrdata/comfyui-impact-pack": {
+      "hash": "c6056b132d7e155c3ece42b77e08ea45bde1bfef",
+      "disabled": false
+    },
+    "https://github.com/jamesWalker55/comfyui-various": {
+      "hash": "ec58185387c75b74ee93d6f835ff480772dbc64d",
+      "disabled": false
+    },
+    "https://github.com/blenderneko/comfyui_adv_clip_emb": {
+      "hash": "63984deefb005da1ba90a1175e21d91040da38ab",
+      "disabled": false
+    },
+    "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes": {
+      "hash": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+      "disabled": false
+    }
+  }
+}
