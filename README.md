@@ -103,7 +103,7 @@ Control details of the generated image.
 
 ### _postprocess
 
-(WIP) Postprocess the generated image.
+Postprocess the generated image.
 
 
 ### _utils
@@ -113,3 +113,26 @@ Utility workflows.
 ### _examples
 
 Examples of using the workflow modules.
+
+
+![emptyLatent](workflows/_examples/outputs/emptyLatent.png)
+
+[workflows/_examples/emptyLatent.json](workflows/_examples/emptyLatent.json)
+
+
+![faceModel](workflows/_examples/outputs/faceModel.png)
+
+[workflows/_examples/faceModel.json](workflows/_examples/faceModel.json)
+
+
+![productBasketBall](workflows/_examples/outputs/productBasketBall.png)
+
+[workflows/_examples/productBasketBall.json](workflows/_examples/productBasketBall.json)
+
+
+![productVodka](workflows/_examples/outputs/productVodka.png)
+
+[workflows/_examples/productVodka.json](workflows/_examples/productVodka.json)
+
+
+
