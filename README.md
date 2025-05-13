@@ -6,6 +6,11 @@ Fully excutable ComfyUI workflows with the same ComfyUI configuration.
 All workflows are modulized and can be reused in different purposes.
 
 
+## Lightning Template
+
+https://lightning.ai/harborschool/studios/harbor-school-ai-comfyui
+
+
 ## ComfyUI Configuration
 
 
