@@ -117,5 +117,15 @@
     "reference": "",
     "save_path": "controlnet",
     "description": ""
+  },
+  {
+    "url": "https://huggingface.co/lllyasviel/ic-light/resolve/main/iclight_sd15_fc.safetensors",
+    "base": "",
+    "name": "iclight_sd15_fc",
+    "type": "unet",
+    "filename": "iclight_sd15_fc.safetensors",
+    "reference": "",
+    "save_path": "unet",
+    "description": ""
   }
 ]
