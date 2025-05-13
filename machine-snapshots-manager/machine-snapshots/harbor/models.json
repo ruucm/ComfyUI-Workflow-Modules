@@ -20,6 +20,16 @@
     "description": ""
   },
   {
+    "url": "https://civitai.com/api/download/models/143906",
+    "base": "SD 1.5",
+    "name": "epicrealism_naturalSinRC1VAE",
+    "type": "checkpoints",
+    "filename": "epicrealism_naturalSinRC1VAE.safetensors",
+    "reference": "",
+    "save_path": "checkpoints/SD1.5",
+    "description": ""
+  },
+  {
     "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sd15.bin",
     "base": "SD 1.5",
     "type": "ipadapter",
