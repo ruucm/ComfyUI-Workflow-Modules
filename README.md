@@ -125,6 +125,14 @@ Examples of using the workflow modules.
 ![emptyLatent](workflows/_examples/outputs/emptyLatent.png)
 
 
+[workflows/_examples/imageLatentDog.json](workflows/_examples/imageLatentDog.json)
+
+![imageLatentDog](workflows/_examples/outputs/imageLatentDog.png)
+
+[workflows/_examples/imageLatentPortrait.json](workflows/_examples/imageLatentPortrait.json)
+
+![imageLatentPortrait](workflows/_examples/outputs/imageLatentPortrait.png)
+
 
 [workflows/_examples/faceModel.json](workflows/_examples/faceModel.json)
 
