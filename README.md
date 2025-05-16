@@ -120,24 +120,30 @@ Utility workflows.
 Examples of using the workflow modules.
 
 
-![emptyLatent](workflows/_examples/outputs/emptyLatent.png)
-
 [workflows/_examples/emptyLatent.json](workflows/_examples/emptyLatent.json)
 
+![emptyLatent](workflows/_examples/outputs/emptyLatent.png)
 
-![faceModel](workflows/_examples/outputs/faceModel.png)
+
 
 [workflows/_examples/faceModel.json](workflows/_examples/faceModel.json)
 
+![faceModel](workflows/_examples/outputs/faceModel.png)
 
-![productBasketBall](workflows/_examples/outputs/productBasketBall.png)
+
 
 [workflows/_examples/productBasketBall.json](workflows/_examples/productBasketBall.json)
 
+![productBasketBall](workflows/_examples/outputs/productBasketBall.png)
+
+
+
+[workflows/_examples/product1024.json](workflows/_examples/product1024.json)
 
 ![productVodka](workflows/_examples/outputs/productVodka.png)
 
-[workflows/_examples/productVodka.json](workflows/_examples/productVodka.json)
+![productNike](workflows/_examples/outputs/productNike.png)
+
 
 
 
