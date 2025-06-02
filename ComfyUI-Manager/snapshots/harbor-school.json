@@ -1,34 +1,6 @@
 {
     "comfyui": "312d511630db4907c3bed04dee297b28f61941a8",
     "git_custom_nodes": {
-        "https://github.com/jamesWalker55/comfyui-various": {
-            "hash": "5bd85aaf7616878471469c4ec7e11bbd0cef3bf2",
-            "disabled": false
-        },
-        "https://github.com/Comfy-Org/ComfyUI-Manager.git": {
-            "hash": "86053454992a8821557a9c4dcfa268b644767956",
-            "disabled": false
-        },
-        "https://github.com/crystian/ComfyUI-Crystools": {
-            "hash": "1156ff983b635ef506e7b79659126837a1e9d275",
-            "disabled": false
-        },
-        "https://github.com/ruucm/ruucm-comfy": {
-            "hash": "5da4b255b105823e299db98cac61fedf8771ffa4",
-            "disabled": false
-        },
-        "https://github.com/ssitu/ComfyUI_UltimateSDUpscale": {
-            "hash": "d033884dbcd18bb43cc9ff70a0b13164bff4d333",
-            "disabled": false
-        },
-        "https://github.com/ruucm/comfyui-deploy": {
-            "hash": "e95ada948052ff2d8505c99b260a3b245c3ae7b4",
-            "disabled": false
-        },
-        "https://github.com/risunobushi/comfyUI_FrequencySeparation_RGB-HSV": {
-            "hash": "67a08c55ee6aa8e9140616f01497bd54d3533fa6",
-            "disabled": false
-        },
         "https://github.com/syllebra/bilbox-comfyui": {
             "hash": "1d265a39bd2d2c1d77a6aeae53c058324f06a5b6",
             "disabled": false
@@ -37,24 +9,36 @@
             "hash": "5ae64f462ec24fc0100a309c42c3def6aae18d7b",
             "disabled": false
         },
-        "https://github.com/un-seen/comfyui-tensorops": {
-            "hash": "d34488e3079ecd10db2fe867c3a7af568115faed",
-            "disabled": false
-        },
-        "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes": {
-            "hash": "d0905bed31249f2bd0814c67585cf4fe3c77c015",
-            "disabled": false
-        },
         "https://github.com/liusida/ComfyUI-AutoCropFaces": {
             "hash": "b2139db9a8ffb4707832106a58f519bbd04e6118",
             "disabled": false
         },
-        "https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb": {
-            "hash": "63984deefb005da1ba90a1175e21d91040da38ab",
+        "https://github.com/crystian/ComfyUI-Crystools": {
+            "hash": "1156ff983b635ef506e7b79659126837a1e9d275",
+            "disabled": false
+        },
+        "https://github.com/ruucm/comfyui-deploy": {
+            "hash": "e95ada948052ff2d8505c99b260a3b245c3ae7b4",
             "disabled": false
         },
         "https://github.com/spacepxl/ComfyUI-Image-Filters": {
             "hash": "5abb3c2395739e0b94c2061bbc49bd1349de97c4",
+            "disabled": false
+        },
+        "https://github.com/Comfy-Org/ComfyUI-Manager.git": {
+            "hash": "86053454992a8821557a9c4dcfa268b644767956",
+            "disabled": false
+        },
+        "https://github.com/un-seen/comfyui-tensorops": {
+            "hash": "d34488e3079ecd10db2fe867c3a7af568115faed",
+            "disabled": false
+        },
+        "https://github.com/jamesWalker55/comfyui-various": {
+            "hash": "5bd85aaf7616878471469c4ec7e11bbd0cef3bf2",
+            "disabled": false
+        },
+        "https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb": {
+            "hash": "63984deefb005da1ba90a1175e21d91040da38ab",
             "disabled": false
         },
         "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes": {
@@ -68,31 +52,47 @@
         "https://github.com/yichengup/Comfyui_Flux_Style_Adjust": {
             "hash": "83de37b8c22b8ac219b7fe5cbb3723ad8a8ab024",
             "disabled": false
+        },
+        "https://github.com/risunobushi/comfyUI_FrequencySeparation_RGB-HSV": {
+            "hash": "67a08c55ee6aa8e9140616f01497bd54d3533fa6",
+            "disabled": false
+        },
+        "https://github.com/ssitu/ComfyUI_UltimateSDUpscale": {
+            "hash": "d033884dbcd18bb43cc9ff70a0b13164bff4d333",
+            "disabled": false
+        },
+        "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes": {
+            "hash": "d0905bed31249f2bd0814c67585cf4fe3c77c015",
+            "disabled": false
+        },
+        "https://github.com/ruucm/ruucm-comfy": {
+            "hash": "5da4b255b105823e299db98cac61fedf8771ffa4",
+            "disabled": false
         }
     },
     "cnr_custom_nodes": {
-        "comfyui-florence2": "1.0.3",
-        "comfyui-propost": "1.1.3",
+        "comfyui-animatediff-evolved": "1.5.5",
+        "comfyui-art-venture": "1.0.6",
+        "comfyui-brushnet": "1.0.2",
         "comfyui-custom-scripts": "1.2.3",
-        "comfyui-mixlab-nodes": "0.46.0",
-        "was-node-suite-comfyui": "1.0.2",
+        "comfyui-depthanythingv2": "1.0.1",
+        "comfyui-dev-utils": "0.5.1",
+        "comfyui-easy-use": "1.3.0",
+        "comfyui-florence2": "1.0.3",
         "comfyui-ic-light": "1.0.3",
         "comfyui-impact-pack": "8.12.0",
         "comfyui-kjnodes": "1.1.0",
-        "comfyui_controlnet_aux": "1.0.7",
-        "comfyui-dev-utils": "0.5.1",
-        "comfyui-art-venture": "1.0.6",
-        "comfyui_ipadapter_plus": "2.0.0",
-        "comfyui_extra_api": "1.0.6",
-        "comfyui_magicquill_fixed": "1.0.3",
-        "rgthree-comfy": "1.0.0",
+        "comfyui-mixlab-nodes": "0.46.0",
+        "comfyui-propost": "1.1.3",
         "comfyui-videohelpersuite": "1.6.1",
         "comfyui-workspace-manager": "1.0.0",
         "comfyui_api_tools": "1.0.9",
-        "comfyui-depthanythingv2": "1.0.1",
-        "comfyui-easy-use": "1.3.0",
-        "comfyui-animatediff-evolved": "1.5.5",
-        "comfyui-brushnet": "1.0.2"
+        "comfyui_controlnet_aux": "1.0.7",
+        "comfyui_extra_api": "1.0.6",
+        "comfyui_ipadapter_plus": "2.0.0",
+        "comfyui_magicquill_fixed": "1.0.3",
+        "rgthree-comfy": "1.0.0",
+        "was-node-suite-comfyui": "1.0.2"
     },
     "file_custom_nodes": [],
     "pips": {
@@ -112,8 +112,8 @@
         "attrs==25.3.0": "",
         "av==14.4.0": "",
         "beautifulsoup4==4.13.4": "",
-        "boto3==1.34.86": "",
         "bitsandbytes==0.46.0": "",
+        "boto3==1.34.86": "",
         "botocore==1.34.162": "",
         "Brotli==1.1.0": "",
         "certifi==2025.4.26": "",
