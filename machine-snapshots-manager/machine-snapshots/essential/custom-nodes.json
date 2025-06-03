@@ -1,5 +1,5 @@
 {
-  "comfyui": "4c0f5f71e8a3145038c1c4c6690499813aa27e27",
+  "comfyui": "312d511630db4907c3bed04dee297b28f61941a8",
   "git_custom_nodes": {
     "https://github.com/ruucm/ruucm-comfy": {
       "hash": "9007e735a6cdd3fe710eec6e3a81dd92d6c20c12",
@@ -23,6 +23,10 @@
     },
     "https://github.com/ssitu/comfyui_ultimatesdupscale": {
       "hash": "e617ff20e7ef5baf6526c5ff4eb46a35d24ecbba",
+      "disabled": false
+    },
+    "https://github.com/adigayung/ComfyUI-Translator": {
+      "hash": "282cd7649b23a57fb4f7545025ae278d236636de",
       "disabled": false
     }
   },
