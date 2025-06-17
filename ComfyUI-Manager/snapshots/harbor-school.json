@@ -75,6 +75,7 @@
         }
     },
     "cnr_custom_nodes": {
+        "a-person-mask-generator": "1.0.3",
         "comfyui-animatediff-evolved": "1.5.5",
         "comfyui-art-venture": "1.0.6",
         "comfyui-brushnet": "1.0.2",
