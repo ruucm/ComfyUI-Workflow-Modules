@@ -28,6 +28,10 @@
     "https://github.com/adigayung/ComfyUI-Translator": {
       "hash": "282cd7649b23a57fb4f7545025ae278d236636de",
       "disabled": false
+    },
+    "https://github.com/djbielejeski/a-person-mask-generator": {
+      "hash": "eeb7cfa74d77a52cc1670a51fa273dd3f0fe9e85",
+      "disabled": false
     }
   },
   "file_custom_nodes": []
