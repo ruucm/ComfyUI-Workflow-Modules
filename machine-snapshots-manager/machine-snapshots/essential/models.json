@@ -6,7 +6,7 @@
     "type": "checkpoints",
     "filename": "leosamsHelloworldXL_filmGrain20.safetensors",
     "reference": "",
-    "save_path": "checkpoints/SD1.5",
+    "save_path": "checkpoints",
     "description": ""
   },
   {

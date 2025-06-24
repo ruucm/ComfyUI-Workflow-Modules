@@ -26,7 +26,7 @@
     "type": "checkpoints",
     "filename": "epicrealism_naturalSinRC1VAE.safetensors",
     "reference": "",
-    "save_path": "checkpoints/SD1.5",
+    "save_path": "checkpoints",
     "description": ""
   },
   {

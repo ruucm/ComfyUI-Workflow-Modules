@@ -6,7 +6,7 @@
     "type": "checkpoints",
     "filename": "realDream_15SD15.safetensors",
     "reference": "",
-    "save_path": "checkpoints/SD1.5",
+    "save_path": "checkpoints",
     "description": ""
   },
   {
@@ -16,7 +16,7 @@
     "type": "checkpoints",
     "filename": "stokedReality_v31.safetensors",
     "reference": "",
-    "save_path": "checkpoints/SD1.5",
+    "save_path": "checkpoints",
     "description": ""
   },
   {
@@ -26,7 +26,7 @@
     "type": "checkpoints",
     "filename": "perfecthumansexy_v40.safetensors",
     "reference": "",
-    "save_path": "checkpoints/SD1.5",
+    "save_path": "checkpoints",
     "description": ""
   },
   {
@@ -36,7 +36,7 @@
     "type": "checkpoints",
     "filename": "coffeemixLightV1_v10.safetensors",
     "reference": "",
-    "save_path": "checkpoints/SD1.5",
+    "save_path": "checkpoints",
     "description": ""
   },
   {
@@ -46,7 +46,7 @@
     "type": "checkpoints",
     "filename": "almostAnythingV20_v20.safetensors",
     "reference": "",
-    "save_path": "checkpoints/SD1.5",
+    "save_path": "checkpoints",
     "description": ""
   },
   {
@@ -56,7 +56,7 @@
     "type": "checkpoints",
     "filename": "popAsianPhoto2024_v10.safetensors",
     "reference": "",
-    "save_path": "checkpoints/SD1.5",
+    "save_path": "checkpoints",
     "description": ""
   },
   {
@@ -66,7 +66,7 @@
     "type": "checkpoints",
     "filename": "moodyRealMix_v50.safetensors",
     "reference": "",
-    "save_path": "checkpoints/SD1.5",
+    "save_path": "checkpoints",
     "description": ""
   }
 ]
