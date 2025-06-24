@@ -18,5 +18,15 @@
     "reference": "",
     "save_path": "default",
     "description": ""
+  },
+  {
+    "url": "https://huggingface.co/Phips/4xRealWebPhoto_v4_dat2/resolve/main/4xRealWebPhoto_v4.pth",
+    "base": "upscale",
+    "name": "4xRealWebPhoto_v4",
+    "type": "upscale",
+    "filename": "4xRealWebPhoto_v4.pth",
+    "reference": "",
+    "save_path": "default",
+    "description": ""
   }
 ]
