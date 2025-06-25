@@ -1,5 +1,5 @@
 {
-  "comfyui": "9c5fca75f46f7b9f18c07385925f151a7629a94f",
+  "comfyui": "dd94416db24b93f81e9f4bd2aa91d1588041b489",
   "git_custom_nodes": {
     "https://github.com/sipherxyz/comfyui-art-venture": {
       "hash": "2b15c775ded26f71a62de71614c433ad8e7eb23f",
@@ -103,10 +103,6 @@
     },
     "https://github.com/digitaljohn/comfyui-propost": {
       "hash": "e81291a8ff8469461cf3adf1810e66b6ab0ad0fa",
-      "disabled": false
-    },
-    "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes": {
-      "hash": "d0905bed31249f2bd0814c67585cf4fe3c77c015",
       "disabled": false
     },
     "https://github.com/risunobushi/comfyUI_FrequencySeparation_RGB-HSV": {

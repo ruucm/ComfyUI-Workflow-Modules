@@ -1,5 +1,5 @@
 {
-  "comfyui": "312d511630db4907c3bed04dee297b28f61941a8",
+  "comfyui": "dd94416db24b93f81e9f4bd2aa91d1588041b489",
   "git_custom_nodes": {
     "https://github.com/ruucm/ruucm-comfy": {
       "hash": "9007e735a6cdd3fe710eec6e3a81dd92d6c20c12",
@@ -14,11 +14,7 @@
       "disabled": false
     },
     "https://github.com/chrisgoringe/cg-use-everywhere": {
-      "hash": "7a6a232a41a456f7f7348ecc88fa50c538c7a5ec",
-      "disabled": false
-    },
-    "https://github.com/11cafe/comfyui-workspace-manager": {
-      "hash": "8e7058e1518d1e778d11bab065a5f063210598b4",
+      "hash": "0872c46d56f520f06773435f92c9bc8f7ac96ea5",
       "disabled": false
     },
     "https://github.com/ssitu/comfyui_ultimatesdupscale": {
@@ -29,8 +25,8 @@
       "hash": "282cd7649b23a57fb4f7545025ae278d236636de",
       "disabled": false
     },
-    "https://github.com/djbielejeski/a-person-mask-generator": {
-      "hash": "eeb7cfa74d77a52cc1670a51fa273dd3f0fe9e85",
+    "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes": {
+      "hash": "d0905bed31249f2bd0814c67585cf4fe3c77c015",
       "disabled": false
     }
   },

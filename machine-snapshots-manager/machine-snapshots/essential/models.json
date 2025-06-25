@@ -6,7 +6,7 @@
     "type": "checkpoints",
     "filename": "leosamsHelloworldXL_filmGrain20.safetensors",
     "reference": "",
-    "save_path": "checkpoints/SD1.5",
+    "save_path": "checkpoints",
     "description": ""
   },
   {
@@ -15,6 +15,16 @@
     "name": "8x_NMKD-Superscale_150000_G",
     "type": "upscale",
     "filename": "8x_NMKD-Superscale_150000_G.pth",
+    "reference": "",
+    "save_path": "default",
+    "description": ""
+  },
+  {
+    "url": "https://huggingface.co/Phips/4xRealWebPhoto_v4_dat2/resolve/main/4xRealWebPhoto_v4.pth",
+    "base": "upscale",
+    "name": "4xRealWebPhoto_v4",
+    "type": "upscale",
+    "filename": "4xRealWebPhoto_v4.pth",
     "reference": "",
     "save_path": "default",
     "description": ""

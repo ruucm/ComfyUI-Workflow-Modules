@@ -1,0 +1,14 @@
+{
+  "comfyui": "dd94416db24b93f81e9f4bd2aa91d1588041b489",
+  "git_custom_nodes": {
+    "https://github.com/djbielejeski/a-person-mask-generator": {
+      "hash": "eeb7cfa74d77a52cc1670a51fa273dd3f0fe9e85",
+      "disabled": false
+    },
+    "https://github.com/yolain/ComfyUI-Easy-Use": {
+      "hash": "501d97bb5ca8d61b486d47379fb1f21a41b772d7",
+      "disabled": false
+    }
+  },
+  "file_custom_nodes": []
+}
