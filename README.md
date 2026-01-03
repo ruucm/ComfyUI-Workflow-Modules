@@ -155,3 +155,12 @@ Examples of using the workflow modules.
 
 
 
+
+
+[workflows/_examples/inpaint_imageLatent_flux_portrait.json](workflows/_examples/inpaint_imageLatent_flux_portrait.json)
+
+![inpaint_imageLatent_flux_portrait](workflows/_examples/outputs/inpaint_imageLatent_flux_portrait.png)
+
+
+
+
