@@ -234,5 +234,6 @@
     "pysssss.ShowImageOnMenu": false,
     "Comfy.NodeSearchBoxImpl.ShowIdName": true,
     "Comfy.NodeSearchBoxImpl.ShowCategory": false,
-    "Comfy.NodeBadge.NodeIdBadgeMode": "Show all"
+    "Comfy.NodeBadge.NodeIdBadgeMode": "Show all",
+    "Comfy.Templates.SelectedRunsOn": []
 }
